@@ -1,6 +1,6 @@
 {
   "version": "1.2.1",
-  "notes": "v1.2.1 STABLE — Quantum Vault production-ready baseline. Full i18n, Zero Footprint, AES-256-GCM, Argon2id, Shamir SSS, disguise modes, stealth engine, anti-brute-force, forensic cleanup.",
+  "notes": "Quantum Vault — stable release.",
   "pubkey": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IEQxQ0Q0QTE5MjBBM0ZCRjMKUldUeis2TWdHVXJOMFhvc0EvNXdqOTVxZmRiYUE4ZFE5UTJRMUNxbEJNbzROYTRsTnUzdW1LblcK",
   "platforms": {
     "windows-x86_64": {

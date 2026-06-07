@@ -1,12 +1,12 @@
-# 🚀 Quantum Vault — Public Releases
+# Quantum Vault — Releases
 
-Este repositorio público alberga los ejecutables e instaladores de producción de **Quantum Vault** (camuflado bajo el nombre de **Device Care**).
+Repositorio oficial de descargas de Quantum Vault.
 
-## 📥 Enlaces de Descarga Directa (Siempre en la Última Versión):
+## Descargas (última versión)
+- Windows (x64): https://github.com/HarDPro2/Quantum-Vault-Releases/releases/latest
+- Android (APK): https://github.com/HarDPro2/Quantum-Vault-Releases/releases/latest
 
-*   **🖥️ Windows Setup (x64):** [Descargar .exe](https://github.com/HarDPro2/Quantum-Vault-Releases/releases/latest/download/Device_Care_x64-setup.exe)
-*   **📱 Android App (APK):** [Descargar .apk](https://github.com/HarDPro2/Quantum-Vault-Releases/releases/latest/download/Device_Care_signed.apk)
+Los binarios se firman criptográficamente en nuestro pipeline de CI.
+El núcleo de seguridad es de código abierto y auditable; la app completa es de código cerrado.
 
----
-
-*Nota: La seguridad y firma criptográfica de estos binarios está certificada mediante nuestro flujo de trabajo de integración continua. El código fuente permanece privado y protegido en el repositorio principal.*
+Más información: https://quantum-vault-web.vercel.app
