@@ -1,11 +1,11 @@
 {
-  "version": "1.2.1",
-  "notes": "Quantum Vault — stable release.",
-  "pubkey": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IEQxQ0Q0QTE5MjBBM0ZCRjMKUldUeis2TWdHVXJOMFhvc0EvNXdqOTVxZmRiYUE4ZFE5UTJRMUNxbEJNbzROYTRsTnUzdW1LblcK",
+  "version": "1.4.0",
+  "notes": "Quantum Vault v1.4.0",
+  "pub_date": "2026-07-30T05:59:55Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "",
-      "url": "https://github.com/HarDPro2/Quantum-Vault-Releases/releases/latest/download/Device_Care_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMWJSeU9QeWxOdDRQbFlFUU9ydVkvN1dKc05QRW5DQnBLVzFvRTVkWkc4cGlUeWJ4bXNObEdpSmlZUFBWSTkxYWZ6cWlpTE0vUmVIUkFKNU4vdlRiY29ROFBSdXpmVmdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MzkxMTkxCWZpbGU6RmlsZXNfMS4yLjFfeDY0LXNldHVwLmV4ZQo2REpOK00yVitsbXRIMEZUOVh5V3ltc2tJVEFjc3V2RVpJMTkrc2sxbmNMMFNMVWpSYUFQK0NTV25HdWs0dzVJak80dDBKbXpxNG55SXZqaU1sVkNEQT09Cg==",
+      "url": "https://github.com/HarDPro2/Quantum-Vault-Releases/releases/download/v1.4.0/Device_Care_x64-setup.exe"
     }
   }
 }
