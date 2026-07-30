@@ -1,10 +1,10 @@
 {
   "version": "1.4.0",
   "notes": "Quantum Vault v1.4.0",
-  "pub_date": "2026-07-30T07:00:47Z",
+  "pub_date": "2026-07-30T08:18:36Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMWJSeU9QeWxOdDYrTjQzeVVkbm5WZFFLTlVqaGE5L1JwRW91bERGMFZZSGJaSFptYkFmUEwxRk1Gb1lwYVhhbE5ZWS9FZE00a1RqZjdJSWhCdHRtb0RmY05SMm9TamdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1Mzk0ODQyCWZpbGU6RmlsZXNfMS40LjBfeDY0LXNldHVwLmV4ZQovN2dpZkpTalcwWDRqSER3WlRoZGI3UzZVQ3FmVlkzNy8zWDd1UENnUjhzV1A4Q1dKdlFjNWJtNHdQdjFDWDVKK0p3SndWWXpnNlVYYWlybkZvVFVBUT09Cg==",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMWJSeU9QeWxOdDJ5L0RYWWprV280N2l3TTAvSklHcnhQS1BEbUowb0d5YWpXSExhMm52K1JmQjVmV3F3bXpoL0NQYnNhdVhSK2R0TTRKdVlOYW4yMjlFV2JVLzhRVHdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1Mzk5NTA0CWZpbGU6RmlsZXNfMS40LjBfeDY0LXNldHVwLmV4ZQpXMXErZllXODRmaVVSMFcyMURBUGRON0kwM25aWm94dCtqRzEyK0R6MUh4T2lNVHhvMTVNa1plSDV2S0dISFBleTFxd0NaUm53dWxPYy9nMEtPMGxEdz09Cg==",
       "url": "https://github.com/HarDPro2/Quantum-Vault-Releases/releases/download/v1.4.0/Device_Care_x64-setup.exe"
     }
   }
