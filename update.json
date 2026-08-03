@@ -1,11 +1,11 @@
 {
-  "version": "1.4.14",
-  "notes": "Quantum Vault v1.4.14",
-  "pub_date": "2026-08-02T09:37:57Z",
+  "version": "1.4.15",
+  "notes": "Quantum Vault v1.4.15",
+  "pub_date": "2026-08-03T00:53:45Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMWJSeU9QeWxOdDZyYmZtdGM0YklWVkQrWGFFb0JPM1BDNXR3TGNzYmJnWktDa0RlSDUreWVnVmNqK3RBU3pCQWNRMnNDSHFpUkV3VnVQYmNWRWozNEhjV2k5bVFMaWdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NjYzNDY5CWZpbGU6UXVhbnR1bSBQdWxzZSBDbGVhbmVyIFByb18xLjQuMTRfeDY0LXNldHVwLmV4ZQpQeWlwY3N5ckd5b0pQMk5XQkJYT09RcXhiRXgrRGZqTVlnUDBYRmF5aWd6c3hqZi9weHRqekVWTCtHaUlXY3JQdnZ3UnZnRE0xdXdwZy9MdCtWRDJEUT09Cg==",
-      "url": "https://github.com/HarDPro2/Quantum-Vault-Releases/releases/download/v1.4.14/Quantum_Pulse_Cleaner_Pro_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMWJSeU9QeWxOdDBkZUxSUnVEOUgvWnhTbmZ6VUpnakxFQWxaMlh4YjJvdHNGRm5IN2tGZ2laQ1orVURieE5GaTYvNHhQakEwZUJiTkNyY1BmR2hmMDVLM3NGalJrN1FZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NzE4NDIwCWZpbGU6UXVhbnR1bSBQdWxzZSBDbGVhbmVyIFByb18xLjQuMTVfeDY0LXNldHVwLmV4ZQo2eGxVdXJYVVM3dGJPem5rekJVN1J1WUpmM3RqTjl1VW9tV2tPMnM3K2ltTTl6dFlOa0xrV0RlcVpoYjJ1WVU4WWU5VUQ0b2NGUTJ6dmU2QWNMK3FCUT09Cg==",
+      "url": "https://github.com/HarDPro2/Quantum-Vault-Releases/releases/download/v1.4.15/Quantum_Pulse_Cleaner_Pro_x64-setup.exe"
     }
   }
 }
